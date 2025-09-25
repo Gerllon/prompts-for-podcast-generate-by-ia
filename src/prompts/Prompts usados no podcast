@@ -1,0 +1,44 @@
+Prompts usados:
+
+## Ideias para o Podcast: Frontend para Nerds
+
+1.  **Nome:** O Hobbit e o CSS
+    * **Subtítulo:** Uma jornada inesperada no mercado de desenvolvimento.
+    * **Trocadilho:** Combina a jornada de Bilbo Bolseiro em **"O Hobbit"** com **CSS**, um dos pilares do frontend.
+---
+2.  **Nome:** A Sociedade do Código
+    * **Subtítulo:** Um guia para dominar o anel da web.
+    * **Trocadilho:** Faz uma clara referência a **"A Sociedade do Anel"** de **"O Senhor dos Anéis"**, trocando "anel" por "código" e "web", que pode ser traduzido como a "web" mundial, que representa o universo da programação.
+---
+3.  **Nome:** Star Devs - O Retorno do Desenvolvedor
+    * **Subtítulo:** A força está com o seu código.
+    * **Trocadilho:** Utiliza o nome da franquia **"Star Wars"** e um de seus filmes **"O Retorno de Jedi"**, para criar uma frase empolgante, "O Retorno do Desenvolvedor". Já o subtítulo, "A força está com o seu código", faz uma brincadeira com uma das frases mais famosas da cultura pop, **"Que a Força esteja com você"**.
+---
+4.  **Nome:** O Cálice de Fogo e o Código
+    * **Subtítulo:** Desafios e feitiços para o mundo da web.
+    * **Trocadilho:** Usa como inspiração **"Harry Potter e o Cálice de Fogo"**. A ideia é que o podcast traga desafios e "feitiços" para resolver problemas no mundo do desenvolvimento.
+---
+5.  **Nome:** Nerd na Batalha Final
+    * **Subtítulo:** O guia para o desenvolvedor moderno.
+    * **Trocadilho:** O nome é inspirado em **"Vingadores: Ultimato"**, que seria a "batalha final". Sugere que o podcast é a ferramenta que o nerd desenvolvedor precisa para enfrentar os desafios do mercado de trabalho.
+
+Episódio de Podcast
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é " Star Devs - O Retorno do Desenvolvedor" e tem foco em frontend,  com o público alvo de iniciantes em frontend
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+{REGRAS}
+
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Gerllon  e esse foi o CodeQuest dessa semana' "Que a Força esteja com você".
+use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Gerllon
+O podcast deve ser curto
+{REGRAS NEGATIVAS}
+
+Não use muitos termos técnicos
+Não ultrapasse 5 minutos de duração
